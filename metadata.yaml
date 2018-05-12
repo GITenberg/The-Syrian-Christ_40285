@@ -1,0 +1,29 @@
+_repo: The-Syrian-Christ_40285
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40285-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Rihbany, Abraham Mitrie
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '40524'
+    url: http://www.gutenberg.org/2009/agents/40524
+description: ''
+gutenberg_issued: '2012-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40285'
+  lccn: '16021561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Biography'
+- !lcsh 'Palestine -- Social life and customs'
+- !lcsh 'Syria -- Social life and customs'
+title: The Syrian Christ
+url: http://www.gutenberg.org/ebooks/40285
